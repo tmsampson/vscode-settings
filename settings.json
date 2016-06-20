@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.hg": true,
+		"**/.DS_Store": true
+	},
+	"editor.renderWhitespace": true,
+	"editor.insertSpaces": false
+}

@@ -1,0 +1,6 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "shift+alt+o",     "command": "workbench.action.quickOpen" },
+    { "key": "alt+m",           "command": "workbench.action.gotoSymbol" },
+    { "key": "ctrl+alt+l",      "command": "workbench.view.explorer" }
+]
