@@ -3,6 +3,7 @@
 	"files.exclude": {
 		"**/.git": true,
 		"**/.hg": true,
+		"**/node_modules": true,
 		"**/.DS_Store": true
 	},
 	"editor.renderWhitespace": true,
