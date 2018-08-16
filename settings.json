@@ -6,6 +6,9 @@
 		"**/node_modules": true,
 		"**/.DS_Store": true
 	},
-	"editor.renderWhitespace": true,
-	"editor.insertSpaces": false
+	"editor.renderWhitespace": "all",
+	"editor.insertSpaces": false,
+	"breadcrumbs.enabled": true,
+	"window.titleBarStyle": "custom",
+	"csharp.referencesCodeLens.enabled":false
 }
