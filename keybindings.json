@@ -19,10 +19,6 @@
         "command": "workbench.action.tasks.runTask"
     },
     {
-        "key": "oem_8",
-        "command": "workbench.action.showCommands"
-    },
-    {
         "key": "ctrl+shift+p",
         "command": "-workbench.action.showCommands"
     },
@@ -51,5 +47,13 @@
     {
         "key": "alt+right",
         "command": "-workbench.action.navigateForward"
+    },
+    {
+        "key": "ctrl+2",
+        "command": "workbench.action.compareEditor.nextChange"
+    },
+    {
+        "key": "ctrl+1",
+        "command": "workbench.action.compareEditor.previousChange"
     }
 ]
