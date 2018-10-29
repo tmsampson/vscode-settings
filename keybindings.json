@@ -7,7 +7,7 @@
         "command": "workbench.view.explorer"
     },
     {
-        "key": "shift+alt+t",
+        "key": "ctrl+alt+o",
         "command": "workbench.action.terminal.focus"
     },
     {
