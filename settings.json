@@ -10,5 +10,9 @@
 	"editor.insertSpaces": false,
 	"breadcrumbs.enabled": true,
 	"window.titleBarStyle": "custom",
-	"csharp.referencesCodeLens.enabled":false
+	"csharp.referencesCodeLens.enabled":false,
+	"debug.allowBreakpointsEverywhere": true,
+	"editor.minimap.enabled": true,
+	"git.enableSmartCommit": true,
+	"editor.mouseWheelZoom": true
 }
